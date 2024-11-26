@@ -1,2 +1,2 @@
 # test
-This is a test of Fithub repository
+This is a test of Github repository
